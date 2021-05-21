@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Wachira {{steve ryan}}</h1>
-<h3 align="center">A passionate software development from Kenya</h3>
+<h3 align="center">A passionate software developer from Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/stevewachirah" target="blank"><img src="https://img.shields.io/twitter/follow/stevewachirah?logo=twitter&style=for-the-badge" alt="stevewachirah" /></a> </p>
 
