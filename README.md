@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/stevewachirah" target="blank"><img src="https://img.shields.io/twitter/follow/stevewachirah?logo=twitter&style=for-the-badge" alt="stevewachirah" /></a> </p>
-<p align="left"> <a href="https://twitter.com/stevewachirah" target="blank"><img src="https://img.shields.io/twitter/follow/stevewachirah?logo=twitter&style=for-the-badge" alt="stevewachirah" /></a> </p>
+<p align="left"> <a href="https://www.tiktok.com/@dev_steve" target="blank"><img src="https://img.shields.io/twitter/follow/stevewachirah?logo=twitter&style=for-the-badge" alt="stevewachirah" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter,MongoDB**
 
