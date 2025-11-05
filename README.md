@@ -55,7 +55,7 @@ Based in Nairobi, Kenya, I’m a dedicated developer who thrives at the intersec
 - **Email:** devsteveryan@gmail.com  
 - **Website:** [steve-ryan.me](https://steve-ryan.me)  
 - **Twitter:** [@SteveWachirah](https://twitter.com/SteveWachirah)  
-- **LinkedIn:** ([Stephen Wachira](https://www.linkedin.com/in/steve-wachirah)  
+- **LinkedIn:** [Stephen Wachira](https://www.linkedin.com/in/steve-wachirah)  
 
 ---
 
