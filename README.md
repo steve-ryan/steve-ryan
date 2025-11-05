@@ -36,13 +36,6 @@ Based in Nairobi, Kenya, I’m a dedicated developer who thrives at the intersec
 - Custom payment integrations (e.g., Web SDKs)  
 - API endpoints, session & state management  
 
-### 💳 WordPress Super Forms Add-ons
-- **Super Forms IntaSend Payment Gateway** – Secure card payments via IntaSend.  
-- **Super Forms Paystack Payment Gateway** – Fast checkout for African businesses.  
-
-👉 Available for purchase and integration demos upon request.
-
-
 **Development Philosophy**  
 - SOLID principles · Clean code · Modular architecture  
 - Maintainable and testable codebases  
