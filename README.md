@@ -57,6 +57,14 @@ Based in Nairobi, Kenya, I’m a dedicated developer who thrives at the intersec
 - **Twitter:** [@SteveWachirah](https://twitter.com/SteveWachirah)  
 - **LinkedIn:** [Stephen Wachira](https://www.linkedin.com/in/steve-wachirah)  
 
+<p align="center">
+  <a href="mailto:devsteveryan@gmail.com"><img src="https://img.shields.io/badge/Email-%231E3A8A.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%233B82F6.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/254XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%231E3A8A.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://tiktok.com/@yourtiktokhandle" target="_blank"><img src="https://img.shields.io/badge/TikTok-%233B82F6.svg?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://steve-ryan.me"><img src="https://img.shields.io/badge/Portfolio-%231E3A8A.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
 ---
 
 ### 💡 Core Belief  
