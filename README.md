@@ -1,7 +1,7 @@
 <!-- README.md for GitHub Profile of Steve Ryan (steve-ryan) -->
 <!-- Clean · Professional · Brand Colours #1E3A8A & #3B82F6 -->
 
-<h1 align="center" style="color:#1E3A8A;">Hello, I’m Stephen Wachira (<strong>Steve Ryan</strong>)</h1>
+<h1 align="center" style="color:#1E3A8A;">Hello, I’m Stephen Wachira</h1>
 <h3 align="center" style="color:#3B82F6;">Versatile Software Developer | Front-end & Full-stack Specialist</h3>
 
 ---
