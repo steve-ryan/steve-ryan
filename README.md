@@ -8,42 +8,36 @@ I build modern web and mobile applications with a focus on clean UI, scalable ar
 
 ---
 
-### 🎯 About Me  
-Based in Nairobi, Kenya, I’m a dedicated developer who thrives at the intersection of front-end finesse and robust full-stack architecture. With a strong foundation in web technologies, I enjoy:
-- Crafting responsive, user-centric interfaces with clear aesthetics and classical design principles.  
-- Building scalable back-end systems that follow clean architecture and maintainability best-practices.  
-- Continuously learning new technologies and sharing knowledge along the way.
+### 🎯 About Me
+I’m a software developer passionate about building clean, scalable, and user-focused applications.
+
+I specialize in:
+- ⚡ Modern front-end interfaces (React, Vite, Next.js, Tailwind)
+- 🧱 Scalable backend systems (Node.js, Express, MySQL)
+- 📱 Cross-platform mobile apps (Flutter)
+- 🔌 Custom CMS & payment integrations (WordPress, APIs)
 
 ---
 
-### 🔧 Key Skills & Technologies
+### 🔧 Tech Stack
 
-**Front-end / UI**  
-- React · Vite · Tailwind CSS  
-- Classic UI design, responsive layouts  
-- JavaScript/TypeScript, HTML5, CSS3  
+**Frontend**
+React · Vite · Tailwind CSS · Next.js · CSS · TypeScript
 
-**Mobile & Cross-Platform**  
-- Flutter (Dart)  
-- Firebase / Firestore integration  
-- State management via Provider  
+**Mobile**
+Flutter · Dart · Firebase · Firestore · Provider
 
-**Back-end & Data**  
-- Node.js · Express.js  
-- MySQL · MongoDB  
-- RESTful APIs · Authentication systems  
+**Backend**
+Node.js · Express · REST APIs · MySQL · MongoDB
 
-**CMS & Web Integrations**  
-- WordPress + Advanced Custom Fields (ACF)  
-- Custom payment integrations (e.g., Web SDKs)  
-- API endpoints, session & state management  
+**CMS / Integrations**
+WordPress · ACF · Payment APIs · Super Forms
 
-### 💳 WordPress Super Forms Add-ons
-- **Super Forms IntaSend Payment Gateway** – Secure card payments via IntaSend.  
-- **Super Forms Paystack Payment Gateway** – Fast checkout for African businesses.  
+### 💳 WordPress Extensions
+- IntaSend Payment Gateway integration for Super Forms  
+- Paystack Payment Gateway integration for Super Forms  
 
-👉 Available for purchase and integration demos upon request.
-
+💡 Available for demos, collaboration, or custom integration work.
 
 **Development Philosophy**  
 - SOLID principles · Clean code · Modular architecture  
@@ -54,22 +48,24 @@ Based in Nairobi, Kenya, I’m a dedicated developer who thrives at the intersec
 
 ### 📈 GitHub Metrics  
 <p align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=steve-ryan&show_icons=true&theme=default&count_private=true" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-ryan&layout=compact&theme=default" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=steve-ryan&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-ryan&layout=compact&theme=tokyonight" />
 </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=steve-ryan" />
 
 ---
 
-### 📬 Connect with Me  
-- **Email:** devsteveryan@gmail.com  
-- **Website:** [steve-ryan.me](https://steve-ryan.me)  
-- **Twitter:** [@SteveWachirah](https://twitter.com/SteveWachirah)  
-- **LinkedIn:** [Stephen Wachira](https://www.linkedin.com/in/steve-wachirah)  
+### 📬 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:devsteveryan@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-1E3A8A)](https://steve-ryan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3B82F6)](https://www.linkedin.com/in/steve-wachirah)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/SteveWachirah)
 
 ---
 
 ### 💡 Core Belief  
-> “Elegant code should explain itself; great architecture should stand the test of time.”
+> “Clean code is not written to impress machines — it’s written to communicate with humans.”
 
 I'm passionate about building technology that not only works well today but remains adaptable and clean for tomorrow.
 
