@@ -47,11 +47,9 @@ WordPress · ACF · Payment APIs · Super Forms
 ---
 
 ### 📈 GitHub Metrics  
-<p align="center">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=steve-ryan&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-ryan&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=steve-ryan" />
-</p>
 
 
 ---
