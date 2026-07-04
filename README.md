@@ -80,3 +80,5 @@ I aim to build solutions that **work beautifully today** and remain **adaptable 
   <img src="https://img.shields.io/badge/Node.js-%233B82F6.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%231E3A8A.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+https://gitfut.com/steve-ryan?country=ke
