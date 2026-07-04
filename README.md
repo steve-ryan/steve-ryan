@@ -67,7 +67,7 @@ WordPress · ACF · Payment APIs · Super Forms
 
 ## ⚽ My GitFut Card
 
-[![GitFut Card](https://gitfut.com/api/card?username=YOUR_GITHUB_USERNAME&country=ke)](https://gitfut.com/YOUR_GITHUB_USERNAME?country=ke)
+[![GitFut Card](https://gitfut.com/api/card?username=steve-ryan&country=ke)](https://gitfut.com/steve-ryan?country=ke)
 
 ## 💡 Core Belief
 > “Clean code isn’t just for machines — it’s a language for humans.”
