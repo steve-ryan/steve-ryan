@@ -65,6 +65,10 @@ WordPress · ACF · Payment APIs · Super Forms
 
 ---
 
+## ⚽ My GitFut Card
+
+[![GitFut Card](https://gitfut.com/api/card?username=YOUR_GITHUB_USERNAME&country=ke)](https://gitfut.com/YOUR_GITHUB_USERNAME?country=ke)
+
 ## 💡 Core Belief
 > “Clean code isn’t just for machines — it’s a language for humans.”
 
@@ -81,4 +85,4 @@ I aim to build solutions that **work beautifully today** and remain **adaptable 
   <img src="https://img.shields.io/badge/MySQL-%231E3A8A.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-https://gitfut.com/steve-ryan?country=ke
+
