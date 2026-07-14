@@ -36,10 +36,15 @@ WordPress · ACF · Payment APIs · Super Forms
 ---
 
 ## 💳 WordPress Extensions
-- IntaSend Payment Gateway for Super Forms  
-- Paystack Payment Gateway for Super Forms  
+
+| Extension | Description |
+|------------|-------------|
+| **IntaSend Payment Gateway for Super Forms** | Seamless M‑Pesa and card payments directly from Super Forms. |
+| **Paystack Payment Gateway for Super Forms** | Accept secure Paystack payments in Super Forms with full transaction tracking. |
+| **WooCommerce M‑Pesa Gateway (Daraja 3 API)** | Reliable STK Push payments with secure callbacks, automatic reconciliation, and manual recovery tools. |
 
 💡 Available for **demos, collaboration, or custom integration work**.
+
 
 ---
 
