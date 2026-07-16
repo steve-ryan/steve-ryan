@@ -70,7 +70,7 @@ I’m a software developer passionate about building technology that is **scalab
 
 ---
 
-## 📈 GitHub Metrics
+## 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=steve-ryan&theme=react-dark" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steve-ryan&theme=tokyonight" />
