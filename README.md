@@ -6,6 +6,14 @@
 ### Front‑end & Full‑stack Developer · Nairobi, Kenya 🇰🇪  
 I craft modern web and mobile applications with clean UI, scalable architecture, and seamless user experiences.
 
+<!-- Animated Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hi%2C+I'm+Stephen+Wachira;Front‑end+%26+Full‑stack+Developer+·+Nairobi%2C+Kenya+🇰🇪;I+craft+modern+web+and+mobile+applications+with+clean+UI%2C+scalable+architecture%2C+and+seamless+user+experiences." alt="Typing SVG" />
+  </a>
+</p>
+
+
 
 ---
 
