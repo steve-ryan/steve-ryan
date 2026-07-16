@@ -27,33 +27,34 @@
 </p>
 
 
-<!-- Desktop: full badges -->
+<!-- README.md for GitHub Profile of Steve Ryan (steve-ryan) -->
+
+<!-- Animated Intro -->
 <p align="center">
-  <a href="mailto:devsteveryan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/steve-wachirah">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/SteveWachirah">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://wa.me/254756949393">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://hits.sh/github.com/steve-ryan">
-    <img src="https://hits.sh/github.com/steve-ryan.svg?style=for-the-badge&label=Profile%20Views&color=3B82F6" alt="Profile Views"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans+VF&size=30&color=FFFFFF&duration=7000&pause=800&center=true&vCenter=true&multiline=true&width=2000&height=200&lines=👋+Hi%2C+I'm+Stephen+Wachira;Front‑end+%26+Full‑stack+Developer+·+Nairobi%2C+Kenya+🇰🇪;I+craft+modern+web+and+mobile+applications+with+clean+UI%2C+scalable+architecture%2C+and+seamless+user+experiences." alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Mobile: icons only -->
+<!-- Social Icons Row -->
 <p align="center">
-  <a href="mailto:devsteveryan@gmail.com"><img src="https://img.shields.io/badge/-FF4B4B?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/steve-wachirah"><img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/SteveWachirah"><img src="https://img.shields.io/badge/-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://wa.me/254756949393"><img src="https://img.shields.io/badge/-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://hits.sh/github.com/steve-ryan"><img src="https://img.shields.io/badge/-3B82F6?style=flat&logo=github&logoColor=white" alt="Profile Views"/></a>
+  <a href="mailto:devsteveryan@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-FF4B4B?style=social&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/steve-wachirah">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/SteveWachirah">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=social&logo=twitter" alt="Twitter"/>
+  </a>
+  <a href="https://wa.me/254756949393">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=social&logo=whatsapp" alt="WhatsApp"/>
+  </a>
+  <a href="https://hits.sh/github.com/steve-ryan">
+    <img src="https://img.shields.io/badge/-Views-3B82F6?style=social&logo=github" alt="Profile Views"/>
+  </a>
 </p>
+
 
 
 
