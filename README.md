@@ -12,25 +12,6 @@
   <a href="mailto:devsteveryan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/steve-wachirah">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/SteveWachirah">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://hits.sh/github.com/steve-ryan">
-    <img src="https://hits.sh/github.com/steve-ryan.svg?style=for-the-badge&label=Profile%20Views&color=3B82F6" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/steve-ryan?tab=followers">
-    <img src="https://img.shields.io/github/followers/steve-ryan?style=for-the-badge&color=000000&label=Followers&logo=github" alt="GitHub Followers"/>
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="mailto:devsteveryan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://steve-ryan.me">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
@@ -53,37 +34,6 @@
     <img src="https://img.shields.io/github/stars/steve-ryan?style=for-the-badge&color=FFD700&label=Stars&logo=github" alt="GitHub Stars"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="mailto:devsteveryan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://steve-ryan.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/steve-wachirah">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/SteveWachirah">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://twitter.com/SteveWachirah">
-    <img src="https://img.shields.io/twitter/follow/SteveWachirah?style=for-the-badge&color=1DA1F2&label=Followers&logo=twitter" alt="Twitter Followers"/>
-  </a>
-  <a href="https://wa.me/2547XXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://hits.sh/github.com/steve-ryan">
-    <img src="https://hits.sh/github.com/steve-ryan.svg?style=for-the-badge&label=Profile%20Views&color=3B82F6" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/steve-ryan?tab=followers">
-    <img src="https://img.shields.io/github/followers/steve-ryan?style=for-the-badge&color=000000&label=Followers&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/steve-ryan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/steve-ryan?style=for-the-badge&color=FFD700&label=Stars&logo=github" alt="GitHub Stars"/>
-  </a>
-</p>
-
 
 
 ---
