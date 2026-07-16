@@ -20,8 +20,6 @@
   <a href="https://twitter.com/SteveWachirah">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab033e738d940a1d325490e8d0fa026b3b032d5d566cd9e68c8c920e0969b641/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f6170702f73696d706c652d766965772d636f756e746572"><img title="repo views" src="https://camo.githubusercontent.com/ab033e738d940a1d325490e8d0fa026b3b032d5d566cd9e68c8c920e0969b641/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f6170702f73696d706c652d766965772d636f756e746572" data-canonical-src="https://freshidea.com/jonah/app/simple-view-counter" style="max-width: 100%;"></a>
 </p>
 
 <p align="center">
@@ -37,10 +35,11 @@
   <a href="https://twitter.com/SteveWachirah">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://freshidea.com/jonah/app/simple-view-counter" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Repo-Views-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Repo Views"/>
+  <a href="https://hits.sh/github.com/steve-ryan">
+    <img src="https://hits.sh/github.com/steve-ryan.svg?style=for-the-badge&label=Profile%20Views&color=3B82F6" alt="Profile Views"/>
   </a>
 </p>
+
 
 
 ---
