@@ -1,10 +1,7 @@
 <!-- README.md for GitHub Profile of Steve Ryan (steve-ryan) -->
 <!-- Brand Colours: #1E3A8A & #3B82F6 -->
 
-# 👋 Hi, I’m **Stephen Wachira**
 
-### Front‑end & Full‑stack Developer · Nairobi, Kenya 🇰🇪  
-I craft modern web and mobile applications with clean UI, scalable architecture, and seamless user experiences.
 
 <!-- Animated Intro -->
 <p align="center">
