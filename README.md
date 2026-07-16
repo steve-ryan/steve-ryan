@@ -27,9 +27,7 @@
   <a href="https://github.com/steve-ryan?tab=followers">
     <img src="https://img.shields.io/github/followers/steve-ryan?style=for-the-badge&color=000000&label=Followers&logo=github" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/steve-ryan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/steve-ryan?style=for-the-badge&color=FFD700&label=Stars&logo=github" alt="GitHub Stars"/>
-  </a>
+  
 </p>
 
 
