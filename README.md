@@ -55,6 +55,25 @@
   </a>
 </p>
 
+<!-- Social Icons Row -->
+<p align="center">
+  <a href="mailto:devsteveryan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=social&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/steve-wachirah">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/SteveWachirah">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=x" alt="Twitter/X"/>
+  </a>
+  <a href="https://wa.me/254756949393">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=social&logo=whatsapp" alt="WhatsApp"/>
+  </a>
+  <a href="https://hits.sh/github.com/steve-ryan">
+    <img src="https://img.shields.io/badge/Views-3B82F6?style=social&logo=github" alt="Profile Views"/>
+  </a>
+</p>
+
 
 
 
