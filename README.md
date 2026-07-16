@@ -1,23 +1,19 @@
 <!-- README.md for GitHub Profile of Steve Ryan (steve-ryan) -->
 <!-- Brand Colours: #1E3A8A & #3B82F6 -->
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Stephen+Wachira;Front‑end+%26+Full‑stack+Developer;Building+Clean+UI+%26+Scalable+Systems;From+Nairobi%2C+Kenya+🇰🇪" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Stephen+Wachira;Front‑end+%26+Full‑stack+Developer;Crafting+Clean+UI+%26+Scalable+Systems;Based+in+Nairobi%2C+Kenya+🇰🇪" alt="Typing Animation" />
 </p>
 
-<h2 align="center">
-  👋 Hi, I’m <b>Stephen Wachira</b> 
+<p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave GIF">
-</h2>
-
-<p align="center">
-  Front‑end & Full‑stack Developer · Nairobi, Kenya 🇰🇪  
 </p>
 
-<p align="center">
-  I craft modern web and mobile applications with clean UI, scalable architecture, and seamless user experiences.
-</p>
+---
+
+### Front‑end & Full‑stack Developer · Nairobi, Kenya 🇰🇪  
+I craft modern web and mobile applications with clean UI, scalable architecture, and seamless user experiences.
+
 
 ---
 
