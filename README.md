@@ -40,22 +40,6 @@ I’m a software developer passionate about building technology that is **scalab
 
 ---
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200">
-  <!-- Contributions graph background -->
-  <image href="https://github.com/users/steve-ryan/contributions" width="1000" height="200" />
-
-  <!-- Overlay text -->
-  <text x="50%" y="40%" text-anchor="middle" font-size="32" fill="#1E3A8A" font-family="Mona Sans VF">
-    👋 Hi, I'm Stephen Wachira
-  </text>
-  <text x="50%" y="65%" text-anchor="middle" font-size="20" fill="#3B82F6" font-family="Mona Sans VF">
-    Front‑end & Full‑stack Developer · Nairobi, Kenya 🇰🇪
-  </text>
-  <text x="50%" y="85%" text-anchor="middle" font-size="18" fill="#000000" font-family="Mona Sans VF">
-    I craft modern web and mobile applications with clean UI, scalable architecture, and seamless user experiences.
-  </text>
-</svg>
-
 
 ## 🔧 Tech Stack
 <p align="center">
