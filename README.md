@@ -1,6 +1,12 @@
 <!-- README.md for GitHub Profile of Steve Ryan (steve-ryan) -->
 <!-- Brand Colours: #1E3A8A & #3B82F6 -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Stephen+Wachira;Front‑end+%26+Full‑stack+Developer;Building+Clean+UI+%26+Scalable+Systems;From+Nairobi%2C+Kenya+🇰🇪" alt="Typing SVG" />
+</p>
+
+---
+
 # 👋 Hi, I’m **Stephen Wachira**
 
 ### Front‑end & Full‑stack Developer · Nairobi, Kenya 🇰🇪  
@@ -20,18 +26,9 @@ I’m a software developer passionate about building technology that is **scalab
 ---
 
 ## 🔧 Tech Stack
-
-**Frontend**  
-React · Next.js · Vite · Tailwind CSS · TypeScript · CSS  
-
-**Mobile**  
-Flutter · Dart · Firebase · Firestore · Provider  
-
-**Backend**  
-Node.js · Express · REST APIs · MySQL · MongoDB  
-
-**CMS / Integrations**  
-WordPress · ACF · Payment APIs · Super Forms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts,css,nodejs,express,mysql,mongodb,flutter,dart,firebase,wordpress" />
+</p>
 
 ---
 
@@ -45,7 +42,6 @@ WordPress · ACF · Payment APIs · Super Forms
 
 💡 Available for **demos, collaboration, or custom integration work**.
 
-
 ---
 
 ## 🧭 Development Philosophy
@@ -56,7 +52,11 @@ WordPress · ACF · Payment APIs · Super Forms
 ---
 
 ## 📈 GitHub Metrics
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=steve-ryan" />  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=steve-ryan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steve-ryan&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steve-ryan&theme=react-dark" />
+</p>
 
 ---
 
@@ -67,6 +67,7 @@ I aim to build solutions that **work beautifully today** and remain **adaptable 
 
 ---
 
+## 📬 Connect with Me
 <p align="center">
   <a href="mailto:devsteveryan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -83,6 +84,3 @@ I aim to build solutions that **work beautifully today** and remain **adaptable 
 </p>
 
 <h4 align="center" style="color:#1E3A8A;">Thanks for visiting — let’s collaborate and build something meaningful.</h4>
-
-
-
