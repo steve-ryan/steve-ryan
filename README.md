@@ -7,45 +7,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:devsteveryan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://steve-ryan.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/steve-wachirah">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/SteveWachirah">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="mailto:devsteveryan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://steve-ryan.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/steve-wachirah">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/SteveWachirah">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://hits.sh/github.com/steve-ryan">
-    <img src="https://hits.sh/github.com/steve-ryan.svg?style=for-the-badge&label=Profile%20Views&color=3B82F6" alt="Profile Views"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:devsteveryan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://steve-ryan.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/steve-wachirah">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
