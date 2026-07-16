@@ -76,8 +76,6 @@ I aim to build solutions that **work beautifully today** and remain **adaptable 
   <img src="https://img.shields.io/badge/MySQL-%231E3A8A.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## 📬 Connect with Me
-
 <p align="center">
   <a href="mailto:devsteveryan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
