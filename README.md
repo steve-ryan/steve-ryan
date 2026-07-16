@@ -61,10 +61,22 @@ WordPress · ACF · Payment APIs · Super Forms
 ---
 
 ## 📬 Connect with Me
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:devsteveryan@gmail.com)  
-[![Website](https://img.shields.io/badge/Portfolio-Visit-1E3A8A)](https://steve-ryan.me)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3B82F6)](https://www.linkedin.com/in/steve-wachirah)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/SteveWachirah)  
+
+<p align="center">
+  <a href="mailto:devsteveryan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://steve-ryan.me">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/steve-wachirah">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/SteveWachirah">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
 
 ---
 
