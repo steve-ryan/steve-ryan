@@ -92,6 +92,4 @@ I aim to build solutions that **work beautifully today** and remain **adaptable 
 </p>
 
 
----
-
 
