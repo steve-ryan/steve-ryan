@@ -60,9 +60,6 @@
   <a href="mailto:devsteveryan@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF4B4B?style=social&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/steve-wachirah">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn"/>
-  </a>
     <a href="https://www.linkedin.com/in/steve-wachirah">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
