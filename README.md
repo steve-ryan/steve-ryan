@@ -63,6 +63,9 @@
   <a href="https://www.linkedin.com/in/steve-wachirah">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
+    <a href="https://www.linkedin.com/in/steve-wachirah">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://twitter.com/SteveWachirah">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=x" alt="Twitter/X"/>
   </a>
