@@ -60,6 +60,22 @@ WordPress · ACF · Payment APIs · Super Forms
 
 ---
 
+## 💡 Core Belief
+> “Clean code isn’t just for machines — it’s a language for humans.”
+
+I aim to build solutions that **work beautifully today** and remain **adaptable tomorrow**.
+
+---
+
+<h4 align="center" style="color:#1E3A8A;">Thanks for visiting — let’s collaborate and build something meaningful.</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%233B82F6.svg?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-%231E3A8A.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%233B82F6.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%231E3A8A.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
 ## 📬 Connect with Me
 
 <p align="center">
@@ -79,21 +95,5 @@ WordPress · ACF · Payment APIs · Super Forms
 
 
 ---
-
-## 💡 Core Belief
-> “Clean code isn’t just for machines — it’s a language for humans.”
-
-I aim to build solutions that **work beautifully today** and remain **adaptable tomorrow**.
-
----
-
-<h4 align="center" style="color:#1E3A8A;">Thanks for visiting — let’s collaborate and build something meaningful.</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%233B82F6.svg?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-%231E3A8A.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-%233B82F6.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%231E3A8A.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
 
 
