@@ -1,6 +1,13 @@
 <!-- README.md for GitHub Profile of Steve Ryan (steve-ryan) -->
 <!-- Brand Colours: #1E3A8A & #3B82F6 -->
 
+<!-- Animated Intro with Spacing -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans+VF&size=30&color=FFFFFF&duration=7000&pause=800&center=true&vCenter=true&multiline=true&width=2000&height=250&lines=👋+Hi%2C+I'm+Stephen+Wachira; ;Front‑end+%26+Full‑stack+Developer+·+Nairobi%2C+Kenya+🇰🇪; ;I+craft+modern+web+and+mobile+applications+with+clean+UI%2C+scalable+architecture%2C+and+seamless+user+experiences." alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 <!-- Animated Intro -->
