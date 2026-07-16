@@ -27,6 +27,36 @@
 </p>
 
 
+<!-- Desktop: full badges -->
+<p align="center">
+  <a href="mailto:devsteveryan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/steve-wachirah">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/SteveWachirah">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://wa.me/254756949393">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://hits.sh/github.com/steve-ryan">
+    <img src="https://hits.sh/github.com/steve-ryan.svg?style=for-the-badge&label=Profile%20Views&color=3B82F6" alt="Profile Views"/>
+  </a>
+</p>
+
+<!-- Mobile: icons only -->
+<p align="center">
+  <a href="mailto:devsteveryan@gmail.com"><img src="https://img.shields.io/badge/-FF4B4B?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/steve-wachirah"><img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/SteveWachirah"><img src="https://img.shields.io/badge/-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://wa.me/254756949393"><img src="https://img.shields.io/badge/-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://hits.sh/github.com/steve-ryan"><img src="https://img.shields.io/badge/-3B82F6?style=flat&logo=github&logoColor=white" alt="Profile Views"/></a>
+</p>
+
+
+
 ---
 
 ## 🎯 About Me
