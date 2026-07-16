@@ -67,8 +67,6 @@ I aim to build solutions that **work beautifully today** and remain **adaptable 
 
 ---
 
-<h4 align="center" style="color:#1E3A8A;">Thanks for visiting — let’s collaborate and build something meaningful.</h4>
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-%233B82F6.svg?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-%231E3A8A.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -90,6 +88,8 @@ I aim to build solutions that **work beautifully today** and remain **adaptable 
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
+
+<h4 align="center" style="color:#1E3A8A;">Thanks for visiting — let’s collaborate and build something meaningful.</h4>
 
 
 
