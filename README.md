@@ -23,11 +23,7 @@
   </a>
   <a href="https://hits.sh/github.com/steve-ryan">
     <img src="https://hits.sh/github.com/steve-ryan.svg?style=for-the-badge&label=Profile%20Views&color=3B82F6" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/steve-ryan?tab=followers">
-    <img src="https://img.shields.io/github/followers/steve-ryan?style=for-the-badge&color=000000&label=Followers&logo=github" alt="GitHub Followers"/>
-  </a>
-  
+  </a> 
 </p>
 
 
