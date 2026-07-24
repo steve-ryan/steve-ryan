@@ -51,13 +51,16 @@ I’m a software developer passionate about building technology that is **scalab
 
 | Extension | Description |
 |------------|-------------|
-| **IntaSend Payment Gateway for Super Forms** | Seamless M‑Pesa and card payments directly from Super Forms. |
+| **IntaSend Payment Gateway for Super Forms** | Seamless M-Pesa and card payments directly from Super Forms. |
 | **Paystack Payment Gateway for Super Forms** | Accept secure Paystack payments in Super Forms with full transaction tracking. |
-| **WooCommerce M‑Pesa Gateway (Daraja 3 API)** | Reliable STK Push payments with secure callbacks, automatic reconciliation, and manual recovery tools. |
+| **WooCommerce M-Pesa Gateway (Daraja 3 API)** | Reliable STK Push payments with secure callbacks, automatic reconciliation, and manual recovery tools. |
+| **Flaresend WooCommerce** | Automate WhatsApp customer communication with order confirmations, shipping updates, and post-purchase feedback requests using Flaresend. |
 
 💡 Available for **demos, collaboration, or custom integration work**.
 
 ---
+
+
 
 ## 🧭 Development Philosophy
 - SOLID principles · Clean code · Modular architecture  
