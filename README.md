@@ -42,7 +42,7 @@ I’m a software developer passionate about building technology that is **scalab
 
 ## 🔧 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts,css,nodejs,express,mysql,mongodb,flutter,dart,laravel,php,wordpress" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts,nodejs,express,mysql,mongodb,flutter,dart,java,laravel,php,wordpress" />
 </p>
 
 ---
