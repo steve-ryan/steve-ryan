@@ -85,3 +85,9 @@ I aim to build solutions that **work beautifully today** and remain **adaptable 
 ---
 
 <h4 align="center" style="color:#1E3A8A;">Thanks for visiting — let’s collaborate and build something meaningful.</h4>
+
+## Support My Work
+
+If you find my projects useful, you can support my work by buying me a coffee ☕.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-orange?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/stevewachira)
