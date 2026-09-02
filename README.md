@@ -85,9 +85,9 @@ If you find my projects useful, you can support my work by buying me a coffee �
 
 ---
 
-## 🐍 Contribution Graph
+<!-- ## 🐍 Contribution Graph
 
-![GitHub Snake](https://raw.githubusercontent.com/steve-ryan/steve-ryan/output/snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/steve-ryan/steve-ryan/output/snake.svg) -->
 
 ## 💡 Core Belief
 > “Clean code isn’t just for machines — it’s a language for humans.”
