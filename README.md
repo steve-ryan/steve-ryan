@@ -55,7 +55,7 @@ I’m a software developer passionate about building technology that is **scalab
 | **Paystack Super Forms** | Accept secure Paystack payments in Super Forms with full transaction tracking. |
 | **WooCommerce M-Pesa Gateway (Daraja 3 API)** | Reliable STK Push payments with secure callbacks, automatic reconciliation, and manual recovery tools. |
 | **Flaresend WooCommerce** | Automate WhatsApp customer communication with order confirmations, shipping updates, and post-purchase feedback requests using Flaresend. |
-| **Hybrid Product Chatbot** | AI-powered product search and comparison chatbot for WooCommerce and custom post types. Searches your own catalogue first and calls AI (OpenAI) only when needed, with theme-matching design, add-to-cart, WhatsApp handoff, FAQs, and vehicle-fit search. |
+| **Hybrid Product Chatbot** | AI-powered product search and comparison chatbot for WooCommerce and custom post types. Searches your own catalogue first and calls AI (OpenAI) only when needed, with theme-matching design, add-to-cart, WhatsApp handoff, FAQs. |
 
 💡 Available for **demos, collaboration, or custom integration work**.
 
