@@ -53,7 +53,7 @@ I’m a software developer passionate about building technology that is **scalab
 |------------|-------------|--------|
 | **IntaSend Super Forms** | Seamless M-Pesa and card payments directly from Super Forms. | [Coming soon](YOUR_LINK_HERE) |
 | **Paystack Super Forms** | Accept secure Paystack payments in Super Forms with full transaction tracking. | [Link](YOUR_LINK_HERE) |
-| **WooCommerce M-Pesa Gateway (Daraja 3 API)** | Reliable STK Push payments with secure callbacks, automatic reconciliation, and manual recovery tools. | [☕ Get it](buymeacoffee.com/stevewachira/e/569359) |
+| **WooCommerce M-Pesa Gateway (Daraja 3 API)** | Reliable STK Push payments with secure callbacks, automatic reconciliation, and manual recovery tools. | [☕ Get it](https://buymeacoffee.com/stevewachira/e/569359) |
 | **Flaresend WooCommerce** | Automate WhatsApp customer communication with order confirmations, shipping updates, and post-purchase feedback requests using Flaresend. | [Link](YOUR_LINK_HERE) |
 | **Hybrid Product Chatbot** | AI-powered product search and comparison chatbot for WooCommerce and custom post types. Searches your own catalogue first and calls AI (OpenAI) only when needed, with theme-matching design, add-to-cart, WhatsApp handoff, FAQs. | [☕ Get it](https://buymeacoffee.com/stevewachira/e/589051) |
 
